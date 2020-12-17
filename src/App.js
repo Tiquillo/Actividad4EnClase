@@ -34,7 +34,7 @@ export default class App extends React.Component {
             target="_blank"
             rel="noopener noreferrer"
           >   
-          Hola!!!         
+          Marca de personalización :)        
           </a>
           <div>{this.state.counter}</div>
           <Alert count={this.state.counter}></Alert>
